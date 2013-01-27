@@ -1,0 +1,20 @@
+{
+  "name": "ep_ruler",
+  "version": "0.0.1",
+  "description": "Adds a ruler to Etherpad lite",
+  "author": {
+    "name": "Luke Williams",
+    "email": "xocel@iquidus.org"
+  },
+  "homepage": "http://www.iquidus.org/ep_ruler",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iquidus/ep_ruler.git"
+  },
+  "dependencies": {
+    "ep_etherpad-lite": ">= 1.2.5"
+  },
+  "engines": {
+    "node": "*"
+  }
+}

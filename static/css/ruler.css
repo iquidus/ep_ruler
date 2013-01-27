@@ -1,0 +1,31 @@
+#rulerBox {
+	height: auto;
+	width: 100%;
+	position: absolute;
+	top: 37px;
+	bottom: 0px;
+	z-index: 1;
+    left: 0px;
+	pointer-events: none;
+}
+
+#ruler {
+	width: 1px;
+	background: #373737;
+	height: 100%;
+	position: relative;
+	margin-left: 0px;
+	margin-right: auto;
+	opacity:0.25;
+}
+
+#fontTest
+{
+    position: absolute;
+    visibility: hidden;
+    font-family: 'monospace';
+    font-size: 12px;
+    line-height: 16px;
+    height: auto;
+    width: auto;
+}

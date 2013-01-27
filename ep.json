@@ -1,0 +1,16 @@
+{
+  "parts" : [
+    {
+      "name":"ep_ruler",
+      "client_hooks": {
+        "postAceInit":"ep_ruler/static/js/index:postAceInit"
+      },
+      "hooks":{
+      	"eejsBlock_scripts":"ep_ruler/index:eejsBlock_scripts",
+      	"eejsBlock_styles":"ep_ruler/index:eejsBlock_styles",
+        "eejsBlock_mySettings.dropdowns":"ep_ruler/index:eejsBlock_mySettings_dropdowns",
+        "eejsBlock_body":"ep_ruler/index:eejsBlock_body"
+      }
+    }
+  ]
+}
