@@ -16,7 +16,9 @@
 	position: relative;
 	margin-left: 0px;
 	margin-right: auto;
-	opacity:0.25;
+	opacity:0.5;
+	border: none;
+	box-shadow: none;
 }
 
 #fontTest
