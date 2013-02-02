@@ -17,11 +17,5 @@
   "engines": {
     "node": "*"
   },
-  "readme": "ep_ruler\n=============\n\nAdds a ruler to Etherpad lite.\n",
-  "readmeFilename": "README.md",
-  "_id": "ep_ruler@0.0.1",
-  "dist": {
-    "shasum": "0fb62d5e2b93de0730d064925a979620c22061ee"
-  },
-  "_from": "/home/xocel/_DEV/plugins/ep_ruler/"
+  "readmeFilename": "README.md"
 }
